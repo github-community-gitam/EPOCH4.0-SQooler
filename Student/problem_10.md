@@ -1,1 +1,1 @@
-Find average marks department-wise.
+- Find students who scored more than the average marks.
