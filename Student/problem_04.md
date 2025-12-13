@@ -1,1 +1,1 @@
-Display name and age
+- Display name and age. 
