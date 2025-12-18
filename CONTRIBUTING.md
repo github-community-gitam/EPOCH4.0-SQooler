@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to C Mini Projects!
+Thank you for your interest in contributing to this repository!
 Any type of contribution — bug fixes, optimizations, or improvements — is truly appreciated. Every contribution, big or small, helps enhance this project!
 
 Please read the guidelines below to ensure smooth and meaningful contributions.
@@ -45,7 +45,7 @@ A good PR consists of:
 
 ## Pull Request Rules
 
-To maintain quality and consistency across C Mini Projects:
+To maintain quality and consistency across the repository:
 
 - Create an Issue first, and link it to your PR
 - Code must compile and run without errors or warnings
@@ -54,7 +54,6 @@ To maintain quality and consistency across C Mini Projects:
 - Document any new feature or modification
 - Use meaningful variable/function names and consistent folder structure
 - Add comments wherever your logic might be unclear
-- Follow standard C formatting and indentation
 
 ## Issue Guidelines
 
