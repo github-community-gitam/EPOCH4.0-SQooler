@@ -1,1 +1,0 @@
-- Write an SQL query to display all the records.
