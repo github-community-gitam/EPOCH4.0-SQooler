@@ -1,0 +1,2 @@
+SELECT * FROM STUDENT 
+WHERE marks> 75;

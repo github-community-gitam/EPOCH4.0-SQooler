@@ -1,2 +1,0 @@
-- Find students scoring more than 75.
-
