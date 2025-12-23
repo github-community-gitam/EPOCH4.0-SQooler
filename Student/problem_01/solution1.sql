@@ -6,5 +6,4 @@ CREATE TABLE STUDENT (
     department VARCHAR(50)
 );
 
-Below is the output obtained:
-![alt text](image.png)
+
