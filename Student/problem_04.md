@@ -3,4 +3,4 @@ SELECT name,age
 FROM STUDENT;
 
 OUTPUT OF THE ABOVE QUERY IS:
-![alt text](image-3.png)
+![Image not found](output_problem_04.png)
